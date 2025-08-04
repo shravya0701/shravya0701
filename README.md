@@ -2,7 +2,8 @@
 
 
 - 🎓 Recent Master's graduate in Computer Science from Youngstown State University
-- 💻 Passionate about coding, problem-solving, and learning new technologies  
-- 📌Currently exploring frontend and full-stack development
+- 📌 Passionate about coding, problem-solving, and learning new technologies  
+- 👩‍💻 Currently exploring frontend and full-stack development
+- ⚒️ Working on mini project gonna launch soon......🔜
 
 
