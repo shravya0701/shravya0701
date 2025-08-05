@@ -4,6 +4,6 @@
 - 🎓 Recent Master's graduate in Computer Science from Youngstown State University
 - 📌 Passionate about coding, problem-solving, and learning new technologies  
 - 👩‍💻 Currently exploring frontend and full-stack development
-- 📬 Applied, Interviewed, Ghosted? Track it all — built a job tracker! 👉 Check it out [here https://job-tracker-cadbc.web.app] 
+- 📬 Applied, Interviewed, Ghosted? Track it all — built a job tracker! 👉 Check it out [here](https://job-tracker-cadbc.web.app) 
 
 
